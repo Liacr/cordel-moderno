@@ -64,11 +64,11 @@ main {
 }
 
 #fundo1 {
-  background-image: url('/imagens/background001.jpg');
+  background-image: url('./imagens/background001.jpg');
 }
 
 #fundo2 {
-  background-image: url('/imagens/background002.jpg');
+  background-image: url('./imagens/background002.jpg');
 }
 
 footer {
